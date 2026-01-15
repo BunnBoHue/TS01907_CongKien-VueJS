@@ -1,0 +1,27 @@
+
+.outer-box {
+  border: 1px solid #d9d9d9;
+}
+
+.inner-box {
+  border: 1px solid #e5e5e5;
+}
+
+.page-title {
+  font-weight: 700;
+}
+
+.nutrition-title {
+  color: #d61f1f;
+  font-weight: 800;
+}
+
+
+.table-header-yellow th {
+  background: #f7b500 !important;
+  color: #111 !important;
+}
+
+.card-pad {
+  padding: 16px;
+}
